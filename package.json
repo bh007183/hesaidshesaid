@@ -1,0 +1,25 @@
+{
+  "name": "hesaidshesaid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bh007183/hesaidshesaid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bh007183/hesaidshesaid/issues"
+  },
+  "homepage": "https://github.com/bh007183/hesaidshesaid#readme",
+  "dependencies": {
+    "playwright": "^1.49.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.1"
+  }
+}
