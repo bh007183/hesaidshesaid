@@ -3,6 +3,7 @@
 
 (async () => {
   
+const nodemailer = require("./nodemailer")
 
    
     const { chromium, devices, firefox, webkit } = require("playwright");
@@ -20,7 +21,7 @@
     await page.goto(url);
 
 
-
+    nodemailer.sendEmail()
     
   
     

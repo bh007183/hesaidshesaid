@@ -18,8 +18,7 @@
   "dependencies": {
     "dotenv": "^16.4.7",
     "nodemailer": "^6.9.16",
-    "playwright": "^1.49.0",
-    "twilio": "^5.4.2"
+    "playwright": "^1.49.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.49.0",
